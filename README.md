@@ -115,7 +115,7 @@ Test using Postman or PowerShell:
     "smoker": "no",
     "region": "northeast"
 }
-
+```
 
 🏆 Future Improvements
 
