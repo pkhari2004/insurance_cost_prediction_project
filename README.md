@@ -117,18 +117,18 @@ Test using Postman or PowerShell:
 }
 ```
 
-🏆 Future Improvements
+## 🏆 Future Improvements
 
-Add API authentication
+- Add API authentication
 
-Containerize using Docker
+- Containerize using Docker
 
-Deploy to cloud (AWS, Azure, etc.)
+- Deploy to cloud (AWS, Azure, etc.)
 
-Improve feature engineering and hyperparameter tuning
+- Improve feature engineering and hyperparameter tuning
 
 
-🙏 Acknowledgments
+## 🙏 Acknowledgments
 
 Thanks to the open dataset available for learning and exploration.
 
