@@ -105,7 +105,6 @@ python gui_app.py
 
 python app.py
 
-```
 Test using Postman or PowerShell:
 
 {
@@ -116,8 +115,10 @@ Test using Postman or PowerShell:
     "smoker": "no",
     "region": "northeast"
 }
-```
+
+
 🏆 Future Improvements
+
 
 Add API authentication
 
@@ -126,8 +127,7 @@ Containerize using Docker
 Deploy to cloud (AWS, Azure, etc.)
 
 Improve feature engineering and hyperparameter tuning
-```
-```
+
 
 🙏 Acknowledgments
 
