@@ -119,7 +119,6 @@ Test using Postman or PowerShell:
 
 🏆 Future Improvements
 
-
 Add API authentication
 
 Containerize using Docker
